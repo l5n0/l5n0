@@ -1,1 +1,1 @@
-<div class="tenor-gif-embed" data-postid="17051397" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/eating-the-pet-collective-raccoon-munching-feeding-gif-17051397">Eating The Pet Collective Sticker</a>from <a href="https://tenor.com/search/eating-stickers">Eating Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![Eating The Pet Collective Sticker](https://tenor.com/bjH0H.gif)
