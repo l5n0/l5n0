@@ -1,2 +1,6 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=l5n0&show_icons=true&theme=chartreuse-dark&width=500)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l5n0&langs_count=8&theme=chartreuse-dark&width=500)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=l5n0&style=flat-square&color=blue" alt=""/>
+</div>
