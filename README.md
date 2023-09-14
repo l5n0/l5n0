@@ -1,5 +1,3 @@
-<h2 align="left">Error 404 Not Found</h2>
-
 ###
 
 <div align="center">
