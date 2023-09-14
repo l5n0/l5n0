@@ -9,10 +9,3 @@
 
 <img align="right" height="150" src="https://media.tenor.com/QXYL8hZsv0IAAAAi/eating-the-pet-collective.gif"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/l5n0/l5n0/output/snake.svg" alt="Snake animation" />
-
-###
