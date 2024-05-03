@@ -3,7 +3,5 @@
 <img align="middle" height="1000" src="https://media.tenor.com/QXYL8hZsv0IAAAAi/eating-the-pet-collective.gif"/>-->
 
 <h3 align="center">
-        <samp>&gt; "Why is there straw here?
-Why are you wearing a mask?"
-- German culture </samp>
+If At First You Don't Succeed, push, push again, And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again. And again.
 </h3>
