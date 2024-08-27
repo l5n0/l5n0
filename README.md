@@ -7,7 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/2a4c4ee0d7f8219cfdbd734de423942a53ea5aa620055278e1eea63f54196c2b/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5158594c38685a7376304941414141692f656174696e672d7468652d7065742d636f6c6c6563746976652e676966"  />
+<img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/1/8/0/5/485081_db2dd.gif"  />
 
 ###
 
