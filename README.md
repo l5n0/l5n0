@@ -7,10 +7,6 @@
 
 ###
 
-<img align="right" height="150" src="https://img1.picmix.com/output/stamp/normal/1/8/0/5/485081_db2dd.gif"  />
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/l5n0/l5n0/output/snake.svg" alt="Snake animation" />
