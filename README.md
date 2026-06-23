@@ -6,6 +6,4 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=l5n0&bg_color=0d1117&color=5BCEFA&line=F5A9B8&point=ffffff&hide_border=true" width="90%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,F5A9B8,5BCEFA&height=80&section=footer" />
-
 </div>
