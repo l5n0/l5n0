@@ -1,14 +1,11 @@
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=l5n0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l5n0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=300&size=15&duration=3500&pause=800&color=5BCEFA&center=true&vCenter=true&width=480&lines=I+do+things+occasionally+when+I'm+not+sleeping." alt="typing" />
 </div>
 
-###
+---
 
-<br clear="both">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=l5n0&bg_color=0d1117&color=5BCEFA&line=F5A9B8&point=ffffff&hide_border=true" width="90%"/>
 
-<img src="https://raw.githubusercontent.com/l5n0/l5n0/output/snake.svg" alt="Snake animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff,F5A9B8,5BCEFA&height=80&section=footer" />
 
-###
+</div>
